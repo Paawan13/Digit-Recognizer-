@@ -3,3 +3,4 @@ A Machine Learning Model which uses SVM (Support Vector Machines) Algorithm to I
 Dataset Used: MNIST Dataset
 Language Used: Python
 Accuracy Score: 91.31%
+The Dataset was too large to upload but you can check it at http://yann.lecun.com/exdb/mnist/
